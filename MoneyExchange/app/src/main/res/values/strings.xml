@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoneyExchange</string>
+    <string name="action_settings">Settings</string>
+    <string name="dollar">USD</string>
+    <string name="euro">EUR</string>
+    <string name="peso">MXN</string>
+    <string name="title_activity_change_coin">ChangeCoinActivity</string>
+    <array name="coins">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </array>
+</resources>
