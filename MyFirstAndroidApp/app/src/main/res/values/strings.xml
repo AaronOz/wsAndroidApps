@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="appTitle">Flow</string>
+    <string name="action_settings">Settings</string>
+</resources>
